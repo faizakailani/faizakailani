@@ -20,7 +20,7 @@ I'm an Informatics Engineering student passionate about Web Development, AI, and
 
 📍 Bandung, Indonesia, Earth 🌏
 
-# 🌐 Socials:
+# 🌐 You can reach me on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizakaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/faizakailani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizalani04@gmail.com) 
 
 <div align="center">
@@ -30,7 +30,6 @@ I'm an Informatics Engineering student passionate about Web Development, AI, and
   
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=faizakailani&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=faizakailani&theme=aura&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizakailani&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
 ### ✍️ Random Dev Quote
