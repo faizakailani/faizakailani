@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Faiza! 
 
 I'm an Informatics Engineering student passionate about Web Development, AI, and Data Science.
-📍 Bandung, Indonesia, Earth 🌏
 
 - 🔭 I’m currently working on:
   - Frontend Web Development using React and Tailwind
@@ -20,6 +19,8 @@ I'm an Informatics Engineering student passionate about Web Development, AI, and
 - ⚡ Fun fact: I led my class for 3 years straight while working full-time and attending university at night — leadership and discipline are my second nature!
 
 > "One step at a time, as long as it's forward — even the smallest progress is still progress."
+
+📍 Bandung, Indonesia, Earth 🌏
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizakaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/faizakailani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizalani04@gmail.com) 
