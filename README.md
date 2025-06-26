@@ -1,24 +1,34 @@
 ### Hi there 👋 I'm Faiza! 
 
-I'm an Informatics Engineering student passionate about Web Development, AI, and Data Science.
+I'm an Informatics Engineering student from **Bandung, Indonesia 🌏**, passionate about **Web Development**, **Artificial Intelligence**, and **Data Science**.
 
-- 🔭 I’m currently working on:
-  - Frontend Web Development using React and Tailwind
-- 🌱 I’m currently learning:
-  - Artificial Intelligence, Machine Learning, and Data Science fundamentals
-- 👯 I’m looking to collaborate on:
-  - Web-based apps or research projects in AI/ML
-  - Open-source projects with real-world impact
-- 🤔 I’m looking for help with:
-  - Structuring a strong AI/ML portfolio for scholarship applications 
-- 💬 Ask me about:
-  - React, API integration, and how to survive working 9-to-5 while going to night classes 😅
-  - Making the most of limited time and energy to still make progress every day
-- ⚡ Fun fact: I led my class for 3 years straight while working full-time and attending university at night — leadership and discipline are my second nature!
+---
+
+🚀 **Currently Working On**  
+- Frontend Web Development with **React** and **Tailwind CSS**
+
+📚 **Currently Learning**  
+- Fundamentals of **AI**, **Machine Learning**, and **Data Science**
+
+🤝 **Looking to Collaborate On**  
+- Web-based applications or AI/ML research projects  
+- Open-source projects that create real-world impact
+
+🎯 **Goals**  
+- Build a strong **AI/ML portfolio** and **web Development** 
+- Apply for scholarships to pursue a **Master’s degree**
+
+✨ **Fun Fact**  
+I led my class for 3 years straight while working full-time and attending university at night — **discipline and leadership are my second nature.**
+
 
 > "One step at a time, as long as it's forward — even the smallest progress is still progress."
 
-📍 Bandung, Indonesia, Earth 🌏
+---
+
+📫 **Let’s Connect!**  
+Feel free to reach out or explore my projects.
+
 
 # 🌐 You can reach me on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizakaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/faizakailani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizalani04@gmail.com) 
