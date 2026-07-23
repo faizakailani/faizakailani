@@ -29,7 +29,7 @@ I build backend-heavy full-stack systems with **NestJS**, **TypeScript**, **Reac
 - Keep shipping software that matters — satu langkah demi satu langkah 🚶‍♀️
 
 ✨ **Fun Fact**
-I led my class for 3 years straight while working full-time and attending university at night — **discipline and leadership are my second nature.**
+I led my class for 4 years straight while working full-time and attending university at night — **discipline and leadership are my second nature.**
 
 > "One step at a time, as long as it's forward — even the smallest progress is still progress."
 
